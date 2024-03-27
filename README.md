@@ -1,4 +1,4 @@
-![MasterHead]([https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif](https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif))
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanandhunv&psig=AOvVaw0b45Z14fZLaqknQO8N5wIv&ust=1711616958142000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDrhpiMlIUDFQAAAAAdAAAAABAR)
 <h1 align="center">Hi 👋, I'm Tamojit Das</h1>
 <h3 align="center">I am pursuing B. Tech in Computer Science and Engineering at Heritage Institute of Technology, Kolkata. I am an aspiring Full-Stack Developer and LLM Engineer.</h3>
 <img align="right" alt="Geeksomaniac" width="420" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
