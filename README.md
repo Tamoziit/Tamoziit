@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamoziit&label=Profile%20views&color=0e75b6&style=flat" alt="tamoziit" /> </p>
 
-- 🌱 I’m currently learning **React, React native, DevOps**
+- 🌱 I’m currently learning **Web3, React native, DevOps**
 
 - 👯 I’m looking to collaborate on **Interesting Techy ideas and Visions**
 
