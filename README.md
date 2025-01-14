@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamoziit&show_icons=true&locale=en" alt="tamoziit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamoziit&" alt="tamoziit" /></p>
+<!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamoziit&" alt="tamoziit" /></p>---!>
