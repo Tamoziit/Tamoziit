@@ -1,11 +1,11 @@
 ![MasterHead](68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966.gif)
 <h1 align="center">Hi 👋, I'm Tamojit Das</h1>
-<h3 align="center">I am pursuing B. Tech in Computer Science and Engineering at Heritage Institute of Technology, Kolkata. I am an aspiring Full-Stack Developer. I am also a Web3 and LLM Enthusiast.</h3>
+<h3 align="center">I am pursuing B. Tech in Computer Science and Engineering at Heritage Institute of Technology, Kolkata. I am an aspiring Full-Stack & Mobile Application Developer. I am also a Systems Engineering, Web3 and LLM Enthusiast.</h3>
 <img align="right" alt="Geeksomaniac" width="420" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamoziit&label=Profile%20views&color=0e75b6&style=flat" alt="tamoziit" /> </p>
 
-- 🌱 I’m currently learning **React native, Data Analysis, Web3 & Blockchain**
+- 🌱 I’m currently learning **Rust, React native, Data Analysis, Web3 & Blockchain**
 
 - 👯 I’m looking to collaborate on **Interesting Techy ideas and Visions**
 
